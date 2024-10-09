@@ -16,5 +16,13 @@ namespace Lab3_Sotf4
         {
             InitializeComponent();
         }
+
+        private void problema3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCalcularOrden frmCalcularOrden = new FrmCalcularOrden();
+            frmCalcularOrden.MdiParent = this;
+            frmCalcularOrden.WindowState = FormWindowState.Maximized;
+            frmCalcularOrden.Show();
+        }
     }
 }

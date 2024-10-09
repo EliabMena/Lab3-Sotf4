@@ -1,0 +1,11 @@
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.exe.config
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.exe
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.pdb
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.AssemblyReference.cache
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.Menu.resources
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.Properties.Resources.resources
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.GenerateResource.cache
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.CoreCompileInputs.cache
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.exe
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.pdb
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.FrmCalcularOrden.resources
