@@ -21,3 +21,9 @@ D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.CoreCompileInputs.cache
 D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.exe
 D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.pdb
 D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.FrmListaNum.resources
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\problema1.exe
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\problema1.pdb
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\bin\Debug\problema1.exe.config
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.ResolveComReference.cache
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.FrmListaNum.resources
+C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.Up2Date

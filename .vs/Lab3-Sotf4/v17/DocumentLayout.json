@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|c:\\users\\eliab\\documents\\github\\lab3-sotf4\\frmcalcularorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:frmcalcularorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|c:\\users\\eliab\\documents\\github\\lab3-sotf4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|c:\\users\\eliab\\documents\\github\\lab3-sotf4\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|c:\\users\\eliab\\documents\\github\\lab3-sotf4\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|c:\\users\\eliab\\documents\\github\\lab3-sotf4\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\frmcalcularorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114E71D6-4F99-4B65-A321-065C30CFEBF0}|Lab3-Sotf4.csproj|solutionrelative:frmcalcularorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:43:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:43:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Tienda.cs",
               "RelativeDocumentMoniker": "Tienda.cs",
@@ -38,12 +70,11 @@
               "RelativeToolTip": "Tienda.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:54:10.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:54:10.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Controlador.cs",
               "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Controlador.cs",
               "RelativeDocumentMoniker": "Controlador.cs",
@@ -51,12 +82,11 @@
               "RelativeToolTip": "Controlador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:56:25.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:56:25.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\Venta.cs",
               "RelativeDocumentMoniker": "Venta.cs",
@@ -64,21 +94,19 @@
               "RelativeToolTip": "Venta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:53:30.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:53:30.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FrmCalcularOrden.cs",
               "DocumentMoniker": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\FrmCalcularOrden.cs",
               "RelativeDocumentMoniker": "FrmCalcularOrden.cs",
               "ToolTip": "C:\\Users\\Eliab\\Documents\\GitHub\\Lab3-Sotf4\\FrmCalcularOrden.cs",
               "RelativeToolTip": "FrmCalcularOrden.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA7AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T01:39:27.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T01:39:27.546Z"
             }
           ]
         }

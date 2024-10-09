@@ -1,0 +1,11 @@
+C:\Users\gabig\source\repos\problema1\bin\Debug\problema1.exe.config
+C:\Users\gabig\source\repos\problema1\bin\Debug\problema1.exe
+C:\Users\gabig\source\repos\problema1\bin\Debug\problema1.pdb
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.csproj.AssemblyReference.cache
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.Form1.resources
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.Properties.Resources.resources
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.csproj.GenerateResource.cache
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.csproj.CoreCompileInputs.cache
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.exe
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.pdb
+C:\Users\gabig\source\repos\problema1\obj\Debug\problema1.frmProblem1.resources

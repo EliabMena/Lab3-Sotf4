@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using problema1;
 
 namespace Lab3_Sotf4
 {
@@ -31,6 +32,14 @@ namespace Lab3_Sotf4
             obj.MdiParent = this;
             obj.WindowState = FormWindowState.Maximized;
             obj.Show();
+        }
+
+        private void problema1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmProblem1 obj1 = new frmProblem1();
+            obj1.MdiParent = this;
+            obj1.WindowState = FormWindowState.Maximized;
+            obj1.Show();
         }
     }
 }
