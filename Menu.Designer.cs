@@ -62,6 +62,7 @@
             this.problema2ToolStripMenuItem.Name = "problema2ToolStripMenuItem";
             this.problema2ToolStripMenuItem.Size = new System.Drawing.Size(76, 20);
             this.problema2ToolStripMenuItem.Text = "Problema2";
+            this.problema2ToolStripMenuItem.Click += new System.EventHandler(this.problema2ToolStripMenuItem_Click);
             // 
             // problema3ToolStripMenuItem
             // 

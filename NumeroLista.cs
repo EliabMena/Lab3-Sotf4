@@ -23,13 +23,12 @@ namespace Lab3_Sotf4
         {
             for (int i = 0; i < numeros.Count; i++)
             {
-                if (this.numeros.Contains(n))
+                if (numeros[i] == n)
                 {
-                    this.numeros.RemoveAt(i);
+                    numeros.RemoveAt(i);
                     i--;
                 }
             }
-
             return numeros;
         }
     }

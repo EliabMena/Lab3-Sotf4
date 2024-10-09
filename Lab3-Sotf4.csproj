@@ -53,6 +53,12 @@
     <Compile Include="FrmCalcularOrden.Designer.cs">
       <DependentUpon>FrmCalcularOrden.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmListaNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaNum.Designer.cs">
+      <DependentUpon>FrmListaNum.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Venta.cs" />
     <EmbeddedResource Include="FrmCalcularOrden.resx">
       <DependentUpon>FrmCalcularOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaNum.resx">
+      <DependentUpon>FrmListaNum.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

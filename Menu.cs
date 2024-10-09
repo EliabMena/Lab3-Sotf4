@@ -24,5 +24,13 @@ namespace Lab3_Sotf4
             frmCalcularOrden.WindowState = FormWindowState.Maximized;
             frmCalcularOrden.Show();
         }
+
+        private void problema2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListaNum obj = new FrmListaNum();
+            obj.MdiParent = this;
+            obj.WindowState = FormWindowState.Maximized;
+            obj.Show();
+        }
     }
 }
