@@ -9,3 +9,14 @@ C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.CoreCompi
 C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.exe
 C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.pdb
 C:\Users\Eliab\Documents\GitHub\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.FrmCalcularOrden.resources
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.exe.config
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.exe
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\bin\Debug\Lab3-Sotf4.pdb
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.AssemblyReference.cache
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.FrmCalcularOrden.resources
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.Menu.resources
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3_Sotf4.Properties.Resources.resources
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.GenerateResource.cache
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.csproj.CoreCompileInputs.cache
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.exe
+D:\Git\Lab3-Sotf4\Lab3-Sotf4\obj\Debug\Lab3-Sotf4.pdb
